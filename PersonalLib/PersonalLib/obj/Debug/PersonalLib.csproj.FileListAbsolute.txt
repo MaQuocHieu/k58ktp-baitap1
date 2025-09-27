@@ -1,0 +1,6 @@
+I:\Baitap web\PersonalLib\PersonalLib\bin\Debug\PersonalLib.dll
+I:\Baitap web\PersonalLib\PersonalLib\bin\Debug\PersonalLib.pdb
+I:\Baitap web\PersonalLib\PersonalLib\obj\Debug\PersonalLib.csproj.AssemblyReference.cache
+I:\Baitap web\PersonalLib\PersonalLib\obj\Debug\PersonalLib.csproj.CoreCompileInputs.cache
+I:\Baitap web\PersonalLib\PersonalLib\obj\Debug\PersonalLib.dll
+I:\Baitap web\PersonalLib\PersonalLib\obj\Debug\PersonalLib.pdb

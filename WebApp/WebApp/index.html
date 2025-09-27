@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Ung dung du doan ngay sinh</title>
+    <script>
+        function sendData() {
+            var day = document.getElementById("txtDay").value;
+            var month = document.getElementById("txtMonth").value;
+            var year = document.getElementById("txtYear").value;
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "api.aspx", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    try {
+                        var json = JSON.parse(xhr.responseText);
+                        document.getElementById("result").innerText = "Ket qua: " + json.message;
+                    } catch (e) {
+                        document.getElementById("result").innerText = "Loi parse JSON: " + xhr.responseText;
+                    }
+                }
+            };
+
+            xhr.send("day=" + day + "&month=" + month + "&year=" + year);
+        }
+    </script>
+</head>
+<body>
+    <h2>Ung dung du doan ngay sinh</h2>
+    <input type="text" id="txtDay" placeholder="Ngay"><br>
+    <input type="text" id="txtMonth" placeholder="Thang"><br>
+    <input type="text" id="txtYear" placeholder="Nam"><br>
+    <button onclick="sendData()">Du doan</button>
+    <p id="result">Ket qua: ...</p>
+</body>
+</html>

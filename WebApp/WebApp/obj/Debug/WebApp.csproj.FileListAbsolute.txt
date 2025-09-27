@@ -1,0 +1,10 @@
+I:\Baitap web\WebApp\WebApp\bin\WebApp.dll.config
+I:\Baitap web\WebApp\WebApp\bin\WebApp.dll
+I:\Baitap web\WebApp\WebApp\bin\WebApp.pdb
+I:\Baitap web\WebApp\WebApp\bin\PersonalLib.dll
+I:\Baitap web\WebApp\WebApp\bin\PersonalLib.pdb
+I:\Baitap web\WebApp\WebApp\obj\Debug\WebApp.csproj.AssemblyReference.cache
+I:\Baitap web\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+I:\Baitap web\WebApp\WebApp\obj\Debug\WebApp.csproj.Up2Date
+I:\Baitap web\WebApp\WebApp\obj\Debug\WebApp.dll
+I:\Baitap web\WebApp\WebApp\obj\Debug\WebApp.pdb

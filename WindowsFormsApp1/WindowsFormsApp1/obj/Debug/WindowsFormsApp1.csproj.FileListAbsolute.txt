@@ -1,0 +1,12 @@
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PersonalLib.dll
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\PersonalLib.pdb
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+I:\Baitap web\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

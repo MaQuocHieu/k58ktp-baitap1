@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>I:\Baitap web\WebApp</_PublishTargetUrl>
+    <History>True|2025-09-27T09:06:56.1721626Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="api.aspx">
+      <publishTime>09/27/2025 16:03:04</publishTime>
+    </File>
+    <File Include="bin/PersonalLib.dll">
+      <publishTime>09/27/2025 15:43:11</publishTime>
+    </File>
+    <File Include="bin/PersonalLib.pdb">
+      <publishTime>09/27/2025 15:43:11</publishTime>
+    </File>
+    <File Include="bin/WebApp.dll">
+      <publishTime>09/27/2025 16:06:55</publishTime>
+    </File>
+    <File Include="bin/WebApp.pdb">
+      <publishTime>09/27/2025 16:06:55</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>09/27/2025 16:03:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/27/2025 16:06:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
